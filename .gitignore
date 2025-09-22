@@ -1,0 +1,12 @@
+# Environment variables
+.venv
+
+# Specific files/folders
+analyze_poi/
+data/
+data_Internet/
+data_poi
+pelita/
+poi_gmaps/
+poi_osm/
+Path/
