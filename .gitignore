@@ -5,8 +5,18 @@
 analyze_poi/
 data/
 data_Internet/
-data_poi
+data_poi/
+
+/Map
+
 pelita/
 poi_gmaps/
 poi_osm/
-Path/
+
+
+# Ignore only .csv and .xlsx files in /kelurahan_for_poi folder
+kelurahan_for_poi/*.csv
+kelurahan_for_poi/*.xlsx
+
+test_path.csv
+test.csv
